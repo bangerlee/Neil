@@ -31,6 +31,11 @@ src/process_map.cpp
 
 根据与客户端协议好的消息ID调用相应的注册函数进行处理
 
+src/process.h   
+src/process.cpp   
+
+定义消息ID和相应的消息处理函数
+
 消息流程
 ========
 
