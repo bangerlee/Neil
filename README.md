@@ -1,4 +1,4 @@
 Neil
 ====
 
-A simple web game server framework
+Neil是一个轻量的服务器框架。
