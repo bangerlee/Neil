@@ -36,6 +36,11 @@ src/process.cpp
 
 定义消息ID和相应的消息处理函数
 
+src/CMySQLMan.h   
+src/CMySQLMan.cpp   
+
+对MySQL管理的封装，提供连接数据库、查找、修改、插入、删除数据等接口
+
 消息流程
 ========
 
